@@ -1,0 +1,10 @@
+John 90
+Blake 80
+Allison 70
+Adams 65
+Lee 70
+Smith 65
+White 70
+Endrik 65
+Gomes 70
+Madara 65
