@@ -1,3 +1,5 @@
+#CIS 106 Session 14 Assignment - Classes and Objects --- ALisher Moldoshev
+
 class Student:
 
     def __init__(self, first, last, districtCode, classEnt):
